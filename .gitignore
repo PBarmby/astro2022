@@ -1,0 +1,5 @@
+from_pw/
+comologytext_*
+*.log
+*.aux
+*.out
